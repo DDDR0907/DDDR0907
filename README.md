@@ -36,9 +36,10 @@
 
 ### 📈 GitHub 动态 (GitHub Stats)
 
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DDDR0907&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="DDDR0907's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DDDR0907&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DDDR0907&show_icons=true&hide_border=true" alt="DDDR0907's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DDDR0907&layout=compact&hide_border=true" alt="Top Langs" width="48%" />
 </div>
 
 ---

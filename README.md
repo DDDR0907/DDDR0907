@@ -34,14 +34,13 @@
 
 ---
 
-### 📈 GitHub 动态 (GitHub Stats)
+### 📈 GitHub 动态
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DDDR0907&show_icons=true&hide_border=true" alt="DDDR0907's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DDDR0907&layout=compact&hide_border=true" alt="Top Langs" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DDDR0907&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="DDDR0907's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DDDR0907&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=5" height="180" alt="Top Langs" />
 </div>
-
 ---
 
 ### 📫 如何联系我 (Let's Connect)
